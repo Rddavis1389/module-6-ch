@@ -1,1 +1,2 @@
-# module-6-challenge
+# module-6-challenge,weather dashboard
+this webpage will allow you to search a for a city and view the current weather, along with the next 5-days forecast. you will also be able to see previously viewed cities, because they will be saved in the search history.
